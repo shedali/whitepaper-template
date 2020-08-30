@@ -1,0 +1,15 @@
+---
+title: CMC Digital Transformation
+papersize: a4paper
+classoption: twocolumn
+classes: report
+abstract: a summary of my current state
+titlepage: true
+logo: cmc.png
+header-right:  \includegraphics{icon.png}
+colorlinks: true
+bibliography: CMC.bib
+template: template.tex
+include-after:
+    - \printnoidxglossary[sort=word]
+---
